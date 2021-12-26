@@ -1,10 +1,11 @@
 from register_file import register
 
+#create Class
 class blood(object):
     def __init__(self,name):
         self.name = name
 
-    # testing function
+    # testing function 
     def blood_history(self,name,type,quantity):
            
         with open("profile.csv",'r') as f:
