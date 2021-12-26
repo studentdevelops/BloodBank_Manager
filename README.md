@@ -27,3 +27,8 @@ Then the doctor screen where the doctor can view the requests and filter using w
 
 Contains a Blood Bank Screen where it has all the blood types available with quantity currently available which goes down bassed on the requests processed
 ![image](https://user-images.githubusercontent.com/31382363/144485931-5242a1a6-f818-43b7-85d3-6da11e342765.png)
+Contributors
+
+- https://github.com/naman-jain-1403 - Naman Jain
+- https://github.com/studentdevelops - Sourav Kumar
+- https://github.com/vaikunthg - Vaikunth Goyal
